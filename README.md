@@ -11,6 +11,8 @@ A secure, offline password manager built with Python and CustomTkinter, featurin
 - **Auto Lock:** Automatically locks after 5 minutes of inactivity.
 - **Secure Clipboard:** Copied passwords are automatically cleared after 30 seconds.
 - **Panic Mode:** Emergency feature to instantly destroy all data.
+- **Leak Check:** The ability to measure how many times your password has been leaked before and its strength.
+
 Note: This application runs locally. If you lose your kripton_key.key file, your data cannot be recovered!
 ## 🚀 Installation
 
@@ -19,7 +21,7 @@ You can download the `KriptonPass.exe` file from the **Releases** section on the
 --
 **Method 2: Run from Source Code**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/KriptonPass.git](https://github.com/YOUR_USERNAME/KriptonPass.git)
+git clone [https://github.com/cagansrn/KriptonPass.git](https://github.com/YOUR_USERNAME/KriptonPass.git)
 cd KriptonPass
 pip install -r requirements.txt
 python sifreyonetim.py < 
@@ -35,6 +37,7 @@ Python ve CustomTkinter ile geliştirilmiş, yerel (offline) çalışan, askeri 
 - **Otomatik Kilit:** 5 dakika hareketsizlikte kendini kilitler.
 - **Güvenli Pano:** Kopyalanan şifreler 30 saniye sonra silinir.
 - **Panik Modu:** Acil durumda verileri imha etme özelliği.
+- **Sızıntı Kontrolü** Şifrenizin daha önce kaç kere sızdırıldığını ve gücünü ölçme yeteneği.
 Not: Bu uygulama yerel olarak çalışır. kripton_key.key dosyanızı kaybederseniz verileriniz kurtarılamaz!
 
 ## 🚀 Kurulum
@@ -44,7 +47,7 @@ Sağ taraftaki **Releases** kısmından `KriptonPass.exe` dosyasını indirip di
 
 **Yöntem 2: Kaynak Koddan Çalıştır**
 ```bash
-git clone [https://github.com/KULLANICIADIN/KriptonPass.git](https://github.com/KULLANICIADIN/KriptonPass.git)
+git clone [https://github.com/cagansrn/KriptonPass.git](https://github.com/KULLANICIADIN/KriptonPass.git)
 cd KriptonPass
 pip install -r requirements.txt
 python sifreyonetim.py
